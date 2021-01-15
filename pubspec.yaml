@@ -1,0 +1,13 @@
+name: to_money
+version: 1.0.0
+
+description: >-
+  A simple extension that converts string of numbers to money format.
+homepage: https://github.com/kannel-outis/To-Money
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+
+dev_dependencies:
+  test:
